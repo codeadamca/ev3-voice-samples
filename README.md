@@ -4,7 +4,11 @@ A Python snippet utilizing the voice spoeaker on the LEGO EV3 Brick and [Pybrick
 
 This sample speaks a phrase using a variety of voices, speeds, and pitches. 
 
-For more details on the hub voice options view the [Pybricks hub documentation](https://pybricks.github.io/ev3-micropython/hubs.html). 
+***
+
+## Repo Resources
+
+- [Pybricks - Documentation](https://docs.pybricks.com/en/latest/ev3devices.html)
 
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
